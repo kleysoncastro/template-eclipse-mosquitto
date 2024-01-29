@@ -2,6 +2,8 @@
 
 Esse template tem como objetivo deixar a configuração do container eclipse-mosquitto automatiza
 
+`require Docker Compose version v2.24.2`
+
 Dessa forma o deploy e tesde de integração devem funcinar no ci do github.
 
 ### Para configurar user e password
